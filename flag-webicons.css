@@ -1,0 +1,1577 @@
+/* Flag Webicons by Sean Herron http://seanherron.com */
+/* Inspired by FC Webicons by Fairhead Creative http://fairheadcreative.com */
+
+.flag-webicon { display: inline-block; background-size: contain !important; background-repeat:no-repeat !important; background-position:center !important; width: 64px; height: 64px; text-indent: -9999em; text-align: left; }
+.flag-webicon.xsmall { width: 16px; height: 16px; }
+.flag-webicon.small { width: 32px; height: 32px; }
+.flag-webicon.large { width: 128px; height: 128px; }
+.flag-webicon.xlarge { width: 256px; height: 256px; }
+
+
+/* afghanistan */
+.no-svg .flag-webicon.afghanistan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/afghanistan.png");}
+.no-svg .flag-webicon.afghanistan.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/afghanistan-xs.png");}
+.no-svg .flag-webicon.afghanistan.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/afghanistan-s.png");}
+.no-svg .flag-webicon.afghanistan.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/afghanistan-l.png");}
+.no-svg .flag-webicon.afghanistan.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/afghanistan-xl.png");}
+.svg .flag-webicon.afghanistan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/afghanistan.svg");}
+
+/* albania */
+.no-svg .flag-webicon.albania {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/albania.png");}
+.no-svg .flag-webicon.albania.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/albania-xs.png");}
+.no-svg .flag-webicon.albania.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/albania-s.png");}
+.no-svg .flag-webicon.albania.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/albania-l.png");}
+.no-svg .flag-webicon.albania.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/albania-xl.png");}
+.svg .flag-webicon.albania {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/albania.svg");}
+
+/* algeria */
+.no-svg .flag-webicon.algeria {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/algeria.png");}
+.no-svg .flag-webicon.algeria.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/algeria-xs.png");}
+.no-svg .flag-webicon.algeria.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/algeria-s.png");}
+.no-svg .flag-webicon.algeria.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/algeria-l.png");}
+.no-svg .flag-webicon.algeria.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/algeria-xl.png");}
+.svg .flag-webicon.algeria {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/algeria.svg");}
+
+/* andorra */
+.no-svg .flag-webicon.andorra {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/andorra.png");}
+.no-svg .flag-webicon.andorra.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/andorra-xs.png");}
+.no-svg .flag-webicon.andorra.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/andorra-s.png");}
+.no-svg .flag-webicon.andorra.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/andorra-l.png");}
+.no-svg .flag-webicon.andorra.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/andorra-xl.png");}
+.svg .flag-webicon.andorra {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/andorra.svg");}
+
+/* angola */
+.no-svg .flag-webicon.angola {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/angola.png");}
+.no-svg .flag-webicon.angola.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/angola-xs.png");}
+.no-svg .flag-webicon.angola.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/angola-s.png");}
+.no-svg .flag-webicon.angola.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/angola-l.png");}
+.no-svg .flag-webicon.angola.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/angola-xl.png");}
+.svg .flag-webicon.angola {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/angola.svg");}
+
+/* antigua-and-barbuda */
+.no-svg .flag-webicon.antigua-and-barbuda {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/antigua-and-barbuda.png");}
+.no-svg .flag-webicon.antigua-and-barbuda.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/antigua-and-barbuda-xs.png");}
+.no-svg .flag-webicon.antigua-and-barbuda.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/antigua-and-barbuda-s.png");}
+.no-svg .flag-webicon.antigua-and-barbuda.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/antigua-and-barbuda-l.png");}
+.no-svg .flag-webicon.antigua-and-barbuda.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/antigua-and-barbuda-xl.png");}
+.svg .flag-webicon.antigua-and-barbuda {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/antigua-and-barbuda.svg");}
+
+/* argentina */
+.no-svg .flag-webicon.argentina {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/argentina.png");}
+.no-svg .flag-webicon.argentina.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/argentina-xs.png");}
+.no-svg .flag-webicon.argentina.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/argentina-s.png");}
+.no-svg .flag-webicon.argentina.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/argentina-l.png");}
+.no-svg .flag-webicon.argentina.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/argentina-xl.png");}
+.svg .flag-webicon.argentina {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/argentina.svg");}
+
+/* armenia */
+.no-svg .flag-webicon.armenia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/armenia.png");}
+.no-svg .flag-webicon.armenia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/armenia-xs.png");}
+.no-svg .flag-webicon.armenia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/armenia-s.png");}
+.no-svg .flag-webicon.armenia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/armenia-l.png");}
+.no-svg .flag-webicon.armenia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/armenia-xl.png");}
+.svg .flag-webicon.armenia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/armenia.svg");}
+
+/* australia */
+.no-svg .flag-webicon.australia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/australia.png");}
+.no-svg .flag-webicon.australia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/australia-xs.png");}
+.no-svg .flag-webicon.australia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/australia-s.png");}
+.no-svg .flag-webicon.australia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/australia-l.png");}
+.no-svg .flag-webicon.australia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/australia-xl.png");}
+.svg .flag-webicon.australia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/australia.svg");}
+
+/* austria */
+.no-svg .flag-webicon.austria {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/austria.png");}
+.no-svg .flag-webicon.austria.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/austria-xs.png");}
+.no-svg .flag-webicon.austria.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/austria-s.png");}
+.no-svg .flag-webicon.austria.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/austria-l.png");}
+.no-svg .flag-webicon.austria.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/austria-xl.png");}
+.svg .flag-webicon.austria {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/austria.svg");}
+
+/* azerbaijan */
+.no-svg .flag-webicon.azerbaijan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/azerbaijan.png");}
+.no-svg .flag-webicon.azerbaijan.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/azerbaijan-xs.png");}
+.no-svg .flag-webicon.azerbaijan.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/azerbaijan-s.png");}
+.no-svg .flag-webicon.azerbaijan.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/azerbaijan-l.png");}
+.no-svg .flag-webicon.azerbaijan.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/azerbaijan-xl.png");}
+.svg .flag-webicon.azerbaijan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/azerbaijan.svg");}
+
+/* bahamas */
+.no-svg .flag-webicon.bahamas {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bahamas.png");}
+.no-svg .flag-webicon.bahamas.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bahamas-xs.png");}
+.no-svg .flag-webicon.bahamas.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bahamas-s.png");}
+.no-svg .flag-webicon.bahamas.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bahamas-l.png");}
+.no-svg .flag-webicon.bahamas.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bahamas-xl.png");}
+.svg .flag-webicon.bahamas {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bahamas.svg");}
+
+/* bahrain */
+.no-svg .flag-webicon.bahrain {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bahrain.png");}
+.no-svg .flag-webicon.bahrain.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bahrain-xs.png");}
+.no-svg .flag-webicon.bahrain.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bahrain-s.png");}
+.no-svg .flag-webicon.bahrain.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bahrain-l.png");}
+.no-svg .flag-webicon.bahrain.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bahrain-xl.png");}
+.svg .flag-webicon.bahrain {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bahrain.svg");}
+
+/* bangladesh */
+.no-svg .flag-webicon.bangladesh {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bangladesh.png");}
+.no-svg .flag-webicon.bangladesh.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bangladesh-xs.png");}
+.no-svg .flag-webicon.bangladesh.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bangladesh-s.png");}
+.no-svg .flag-webicon.bangladesh.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bangladesh-l.png");}
+.no-svg .flag-webicon.bangladesh.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bangladesh-xl.png");}
+.svg .flag-webicon.bangladesh {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bangladesh.svg");}
+
+/* barbados */
+.no-svg .flag-webicon.barbados {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/barbados.png");}
+.no-svg .flag-webicon.barbados.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/barbados-xs.png");}
+.no-svg .flag-webicon.barbados.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/barbados-s.png");}
+.no-svg .flag-webicon.barbados.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/barbados-l.png");}
+.no-svg .flag-webicon.barbados.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/barbados-xl.png");}
+.svg .flag-webicon.barbados {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/barbados.svg");}
+
+/* belarus */
+.no-svg .flag-webicon.belarus {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belarus.png");}
+.no-svg .flag-webicon.belarus.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belarus-xs.png");}
+.no-svg .flag-webicon.belarus.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belarus-s.png");}
+.no-svg .flag-webicon.belarus.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belarus-l.png");}
+.no-svg .flag-webicon.belarus.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belarus-xl.png");}
+.svg .flag-webicon.belarus {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belarus.svg");}
+
+/* belgium */
+.no-svg .flag-webicon.belgium {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belgium.png");}
+.no-svg .flag-webicon.belgium.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belgium-xs.png");}
+.no-svg .flag-webicon.belgium.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belgium-s.png");}
+.no-svg .flag-webicon.belgium.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belgium-l.png");}
+.no-svg .flag-webicon.belgium.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belgium-xl.png");}
+.svg .flag-webicon.belgium {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belgium.svg");}
+
+/* belize */
+.no-svg .flag-webicon.belize {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belize.png");}
+.no-svg .flag-webicon.belize.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belize-xs.png");}
+.no-svg .flag-webicon.belize.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belize-s.png");}
+.no-svg .flag-webicon.belize.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belize-l.png");}
+.no-svg .flag-webicon.belize.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belize-xl.png");}
+.svg .flag-webicon.belize {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/belize.svg");}
+
+/* benin */
+.no-svg .flag-webicon.benin {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/benin.png");}
+.no-svg .flag-webicon.benin.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/benin-xs.png");}
+.no-svg .flag-webicon.benin.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/benin-s.png");}
+.no-svg .flag-webicon.benin.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/benin-l.png");}
+.no-svg .flag-webicon.benin.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/benin-xl.png");}
+.svg .flag-webicon.benin {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/benin.svg");}
+
+/* bhutan */
+.no-svg .flag-webicon.bhutan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bhutan.png");}
+.no-svg .flag-webicon.bhutan.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bhutan-xs.png");}
+.no-svg .flag-webicon.bhutan.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bhutan-s.png");}
+.no-svg .flag-webicon.bhutan.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bhutan-l.png");}
+.no-svg .flag-webicon.bhutan.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bhutan-xl.png");}
+.svg .flag-webicon.bhutan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bhutan.svg");}
+
+/* bolivia */
+.no-svg .flag-webicon.bolivia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bolivia.png");}
+.no-svg .flag-webicon.bolivia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bolivia-xs.png");}
+.no-svg .flag-webicon.bolivia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bolivia-s.png");}
+.no-svg .flag-webicon.bolivia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bolivia-l.png");}
+.no-svg .flag-webicon.bolivia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bolivia-xl.png");}
+.svg .flag-webicon.bolivia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bolivia.svg");}
+
+/* bosnia-and-herzegovina */
+.no-svg .flag-webicon.bosnia-and-herzegovina {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bosnia-and-herzegovina.png");}
+.no-svg .flag-webicon.bosnia-and-herzegovina.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bosnia-and-herzegovina-xs.png");}
+.no-svg .flag-webicon.bosnia-and-herzegovina.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bosnia-and-herzegovina-s.png");}
+.no-svg .flag-webicon.bosnia-and-herzegovina.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bosnia-and-herzegovina-l.png");}
+.no-svg .flag-webicon.bosnia-and-herzegovina.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bosnia-and-herzegovina-xl.png");}
+.svg .flag-webicon.bosnia-and-herzegovina {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bosnia-and-herzegovina.svg");}
+
+/* botswana */
+.no-svg .flag-webicon.botswana {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/botswana.png");}
+.no-svg .flag-webicon.botswana.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/botswana-xs.png");}
+.no-svg .flag-webicon.botswana.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/botswana-s.png");}
+.no-svg .flag-webicon.botswana.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/botswana-l.png");}
+.no-svg .flag-webicon.botswana.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/botswana-xl.png");}
+.svg .flag-webicon.botswana {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/botswana.svg");}
+
+/* brazil */
+.no-svg .flag-webicon.brazil {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/brazil.png");}
+.no-svg .flag-webicon.brazil.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/brazil-xs.png");}
+.no-svg .flag-webicon.brazil.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/brazil-s.png");}
+.no-svg .flag-webicon.brazil.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/brazil-l.png");}
+.no-svg .flag-webicon.brazil.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/brazil-xl.png");}
+.svg .flag-webicon.brazil {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/brazil.svg");}
+
+/* brunei */
+.no-svg .flag-webicon.brunei {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/brunei.png");}
+.no-svg .flag-webicon.brunei.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/brunei-xs.png");}
+.no-svg .flag-webicon.brunei.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/brunei-s.png");}
+.no-svg .flag-webicon.brunei.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/brunei-l.png");}
+.no-svg .flag-webicon.brunei.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/brunei-xl.png");}
+.svg .flag-webicon.brunei {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/brunei.svg");}
+
+/* bulgaria */
+.no-svg .flag-webicon.bulgaria {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bulgaria.png");}
+.no-svg .flag-webicon.bulgaria.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bulgaria-xs.png");}
+.no-svg .flag-webicon.bulgaria.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bulgaria-s.png");}
+.no-svg .flag-webicon.bulgaria.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bulgaria-l.png");}
+.no-svg .flag-webicon.bulgaria.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bulgaria-xl.png");}
+.svg .flag-webicon.bulgaria {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/bulgaria.svg");}
+
+/* burkina-faso */
+.no-svg .flag-webicon.burkina-faso {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/burkina-faso.png");}
+.no-svg .flag-webicon.burkina-faso.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/burkina-faso-xs.png");}
+.no-svg .flag-webicon.burkina-faso.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/burkina-faso-s.png");}
+.no-svg .flag-webicon.burkina-faso.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/burkina-faso-l.png");}
+.no-svg .flag-webicon.burkina-faso.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/burkina-faso-xl.png");}
+.svg .flag-webicon.burkina-faso {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/burkina-faso.svg");}
+
+/* burundi */
+.no-svg .flag-webicon.burundi {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/burundi.png");}
+.no-svg .flag-webicon.burundi.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/burundi-xs.png");}
+.no-svg .flag-webicon.burundi.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/burundi-s.png");}
+.no-svg .flag-webicon.burundi.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/burundi-l.png");}
+.no-svg .flag-webicon.burundi.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/burundi-xl.png");}
+.svg .flag-webicon.burundi {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/burundi.svg");}
+
+/* cambodia */
+.no-svg .flag-webicon.cambodia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cambodia.png");}
+.no-svg .flag-webicon.cambodia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cambodia-xs.png");}
+.no-svg .flag-webicon.cambodia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cambodia-s.png");}
+.no-svg .flag-webicon.cambodia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cambodia-l.png");}
+.no-svg .flag-webicon.cambodia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cambodia-xl.png");}
+.svg .flag-webicon.cambodia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cambodia.svg");}
+
+/* cameroon */
+.no-svg .flag-webicon.cameroon {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cameroon.png");}
+.no-svg .flag-webicon.cameroon.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cameroon-xs.png");}
+.no-svg .flag-webicon.cameroon.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cameroon-s.png");}
+.no-svg .flag-webicon.cameroon.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cameroon-l.png");}
+.no-svg .flag-webicon.cameroon.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cameroon-xl.png");}
+.svg .flag-webicon.cameroon {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cameroon.svg");}
+
+/* canada */
+.no-svg .flag-webicon.canada {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/canada.png");}
+.no-svg .flag-webicon.canada.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/canada-xs.png");}
+.no-svg .flag-webicon.canada.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/canada-s.png");}
+.no-svg .flag-webicon.canada.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/canada-l.png");}
+.no-svg .flag-webicon.canada.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/canada-xl.png");}
+.svg .flag-webicon.canada {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/canada.svg");}
+
+/* cape-verde */
+.no-svg .flag-webicon.cape-verde {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cape-verde.png");}
+.no-svg .flag-webicon.cape-verde.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cape-verde-xs.png");}
+.no-svg .flag-webicon.cape-verde.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cape-verde-s.png");}
+.no-svg .flag-webicon.cape-verde.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cape-verde-l.png");}
+.no-svg .flag-webicon.cape-verde.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cape-verde-xl.png");}
+.svg .flag-webicon.cape-verde {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cape-verde.svg");}
+
+/* central-african-republic */
+.no-svg .flag-webicon.central-african-republic {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/central-african-republic.png");}
+.no-svg .flag-webicon.central-african-republic.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/central-african-republic-xs.png");}
+.no-svg .flag-webicon.central-african-republic.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/central-african-republic-s.png");}
+.no-svg .flag-webicon.central-african-republic.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/central-african-republic-l.png");}
+.no-svg .flag-webicon.central-african-republic.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/central-african-republic-xl.png");}
+.svg .flag-webicon.central-african-republic {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/central-african-republic.svg");}
+
+/* chad */
+.no-svg .flag-webicon.chad {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/chad.png");}
+.no-svg .flag-webicon.chad.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/chad-xs.png");}
+.no-svg .flag-webicon.chad.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/chad-s.png");}
+.no-svg .flag-webicon.chad.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/chad-l.png");}
+.no-svg .flag-webicon.chad.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/chad-xl.png");}
+.svg .flag-webicon.chad {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/chad.svg");}
+
+/* chile */
+.no-svg .flag-webicon.chile {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/chile.png");}
+.no-svg .flag-webicon.chile.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/chile-xs.png");}
+.no-svg .flag-webicon.chile.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/chile-s.png");}
+.no-svg .flag-webicon.chile.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/chile-l.png");}
+.no-svg .flag-webicon.chile.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/chile-xl.png");}
+.svg .flag-webicon.chile {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/chile.svg");}
+
+/* colombia */
+.no-svg .flag-webicon.colombia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/colombia.png");}
+.no-svg .flag-webicon.colombia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/colombia-xs.png");}
+.no-svg .flag-webicon.colombia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/colombia-s.png");}
+.no-svg .flag-webicon.colombia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/colombia-l.png");}
+.no-svg .flag-webicon.colombia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/colombia-xl.png");}
+.svg .flag-webicon.colombia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/colombia.svg");}
+
+/* comoros */
+.no-svg .flag-webicon.comoros {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/comoros.png");}
+.no-svg .flag-webicon.comoros.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/comoros-xs.png");}
+.no-svg .flag-webicon.comoros.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/comoros-s.png");}
+.no-svg .flag-webicon.comoros.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/comoros-l.png");}
+.no-svg .flag-webicon.comoros.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/comoros-xl.png");}
+.svg .flag-webicon.comoros {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/comoros.svg");}
+
+/* costa-rica */
+.no-svg .flag-webicon.costa-rica {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/costa-rica.png");}
+.no-svg .flag-webicon.costa-rica.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/costa-rica-xs.png");}
+.no-svg .flag-webicon.costa-rica.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/costa-rica-s.png");}
+.no-svg .flag-webicon.costa-rica.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/costa-rica-l.png");}
+.no-svg .flag-webicon.costa-rica.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/costa-rica-xl.png");}
+.svg .flag-webicon.costa-rica {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/costa-rica.svg");}
+
+/* croatia */
+.no-svg .flag-webicon.croatia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/croatia.png");}
+.no-svg .flag-webicon.croatia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/croatia-xs.png");}
+.no-svg .flag-webicon.croatia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/croatia-s.png");}
+.no-svg .flag-webicon.croatia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/croatia-l.png");}
+.no-svg .flag-webicon.croatia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/croatia-xl.png");}
+.svg .flag-webicon.croatia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/croatia.svg");}
+
+/* cuba */
+.no-svg .flag-webicon.cuba {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cuba.png");}
+.no-svg .flag-webicon.cuba.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cuba-xs.png");}
+.no-svg .flag-webicon.cuba.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cuba-s.png");}
+.no-svg .flag-webicon.cuba.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cuba-l.png");}
+.no-svg .flag-webicon.cuba.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cuba-xl.png");}
+.svg .flag-webicon.cuba {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cuba.svg");}
+
+/* cyprus */
+.no-svg .flag-webicon.cyprus {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cyprus.png");}
+.no-svg .flag-webicon.cyprus.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cyprus-xs.png");}
+.no-svg .flag-webicon.cyprus.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cyprus-s.png");}
+.no-svg .flag-webicon.cyprus.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cyprus-l.png");}
+.no-svg .flag-webicon.cyprus.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cyprus-xl.png");}
+.svg .flag-webicon.cyprus {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cyprus.svg");}
+
+/* czech-republic */
+.no-svg .flag-webicon.czech-republic {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/czech-republic.png");}
+.no-svg .flag-webicon.czech-republic.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/czech-republic-xs.png");}
+.no-svg .flag-webicon.czech-republic.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/czech-republic-s.png");}
+.no-svg .flag-webicon.czech-republic.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/czech-republic-l.png");}
+.no-svg .flag-webicon.czech-republic.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/czech-republic-xl.png");}
+.svg .flag-webicon.czech-republic {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/czech-republic.svg");}
+
+/* cote-divoire */
+.no-svg .flag-webicon.cote-divoire {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cote-divoire.png");}
+.no-svg .flag-webicon.cote-divoire.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cote-divoire-xs.png");}
+.no-svg .flag-webicon.cote-divoire.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cote-divoire-s.png");}
+.no-svg .flag-webicon.cote-divoire.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cote-divoire-l.png");}
+.no-svg .flag-webicon.cote-divoire.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cote-divoire-xl.png");}
+.svg .flag-webicon.cote-divoire {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/cote-divoire.svg");}
+
+/* democratic-republic-of-the-congo */
+.no-svg .flag-webicon.democratic-republic-of-the-congo {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/democratic-republic-of-the-congo.png");}
+.no-svg .flag-webicon.democratic-republic-of-the-congo.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/democratic-republic-of-the-congo-xs.png");}
+.no-svg .flag-webicon.democratic-republic-of-the-congo.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/democratic-republic-of-the-congo-s.png");}
+.no-svg .flag-webicon.democratic-republic-of-the-congo.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/democratic-republic-of-the-congo-l.png");}
+.no-svg .flag-webicon.democratic-republic-of-the-congo.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/democratic-republic-of-the-congo-xl.png");}
+.svg .flag-webicon.democratic-republic-of-the-congo {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/democratic-republic-of-the-congo.svg");}
+
+/* denmark */
+.no-svg .flag-webicon.denmark {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/denmark.png");}
+.no-svg .flag-webicon.denmark.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/denmark-xs.png");}
+.no-svg .flag-webicon.denmark.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/denmark-s.png");}
+.no-svg .flag-webicon.denmark.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/denmark-l.png");}
+.no-svg .flag-webicon.denmark.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/denmark-xl.png");}
+.svg .flag-webicon.denmark {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/denmark.svg");}
+
+/* djibouti */
+.no-svg .flag-webicon.djibouti {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/djibouti.png");}
+.no-svg .flag-webicon.djibouti.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/djibouti-xs.png");}
+.no-svg .flag-webicon.djibouti.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/djibouti-s.png");}
+.no-svg .flag-webicon.djibouti.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/djibouti-l.png");}
+.no-svg .flag-webicon.djibouti.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/djibouti-xl.png");}
+.svg .flag-webicon.djibouti {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/djibouti.svg");}
+
+/* dominica */
+.no-svg .flag-webicon.dominica {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/dominica.png");}
+.no-svg .flag-webicon.dominica.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/dominica-xs.png");}
+.no-svg .flag-webicon.dominica.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/dominica-s.png");}
+.no-svg .flag-webicon.dominica.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/dominica-l.png");}
+.no-svg .flag-webicon.dominica.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/dominica-xl.png");}
+.svg .flag-webicon.dominica {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/dominica.svg");}
+
+/* dominican-republic */
+.no-svg .flag-webicon.dominican-republic {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/dominican-republic.png");}
+.no-svg .flag-webicon.dominican-republic.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/dominican-republic-xs.png");}
+.no-svg .flag-webicon.dominican-republic.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/dominican-republic-s.png");}
+.no-svg .flag-webicon.dominican-republic.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/dominican-republic-l.png");}
+.no-svg .flag-webicon.dominican-republic.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/dominican-republic-xl.png");}
+.svg .flag-webicon.dominican-republic {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/dominican-republic.svg");}
+
+/* east-timor */
+.no-svg .flag-webicon.east-timor {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/east-timor.png");}
+.no-svg .flag-webicon.east-timor.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/east-timor-xs.png");}
+.no-svg .flag-webicon.east-timor.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/east-timor-s.png");}
+.no-svg .flag-webicon.east-timor.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/east-timor-l.png");}
+.no-svg .flag-webicon.east-timor.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/east-timor-xl.png");}
+.svg .flag-webicon.east-timor {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/east-timor.svg");}
+
+/* ecuador */
+.no-svg .flag-webicon.ecuador {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ecuador.png");}
+.no-svg .flag-webicon.ecuador.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ecuador-xs.png");}
+.no-svg .flag-webicon.ecuador.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ecuador-s.png");}
+.no-svg .flag-webicon.ecuador.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ecuador-l.png");}
+.no-svg .flag-webicon.ecuador.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ecuador-xl.png");}
+.svg .flag-webicon.ecuador {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ecuador.svg");}
+
+/* egypt */
+.no-svg .flag-webicon.egypt {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/egypt.png");}
+.no-svg .flag-webicon.egypt.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/egypt-xs.png");}
+.no-svg .flag-webicon.egypt.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/egypt-s.png");}
+.no-svg .flag-webicon.egypt.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/egypt-l.png");}
+.no-svg .flag-webicon.egypt.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/egypt-xl.png");}
+.svg .flag-webicon.egypt {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/egypt.svg");}
+
+/* el-salvador */
+.no-svg .flag-webicon.el-salvador {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/el-salvador.png");}
+.no-svg .flag-webicon.el-salvador.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/el-salvador-xs.png");}
+.no-svg .flag-webicon.el-salvador.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/el-salvador-s.png");}
+.no-svg .flag-webicon.el-salvador.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/el-salvador-l.png");}
+.no-svg .flag-webicon.el-salvador.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/el-salvador-xl.png");}
+.svg .flag-webicon.el-salvador {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/el-salvador.svg");}
+
+/* equatorial-guinea */
+.no-svg .flag-webicon.equatorial-guinea {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/equatorial-guinea.png");}
+.no-svg .flag-webicon.equatorial-guinea.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/equatorial-guinea-xs.png");}
+.no-svg .flag-webicon.equatorial-guinea.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/equatorial-guinea-s.png");}
+.no-svg .flag-webicon.equatorial-guinea.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/equatorial-guinea-l.png");}
+.no-svg .flag-webicon.equatorial-guinea.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/equatorial-guinea-xl.png");}
+.svg .flag-webicon.equatorial-guinea {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/equatorial-guinea.svg");}
+
+/* eritrea */
+.no-svg .flag-webicon.eritrea {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/eritrea.png");}
+.no-svg .flag-webicon.eritrea.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/eritrea-xs.png");}
+.no-svg .flag-webicon.eritrea.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/eritrea-s.png");}
+.no-svg .flag-webicon.eritrea.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/eritrea-l.png");}
+.no-svg .flag-webicon.eritrea.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/eritrea-xl.png");}
+.svg .flag-webicon.eritrea {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/eritrea.svg");}
+
+/* estonia */
+.no-svg .flag-webicon.estonia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/estonia.png");}
+.no-svg .flag-webicon.estonia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/estonia-xs.png");}
+.no-svg .flag-webicon.estonia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/estonia-s.png");}
+.no-svg .flag-webicon.estonia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/estonia-l.png");}
+.no-svg .flag-webicon.estonia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/estonia-xl.png");}
+.svg .flag-webicon.estonia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/estonia.svg");}
+
+/* ethiopia */
+.no-svg .flag-webicon.ethiopia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ethiopia.png");}
+.no-svg .flag-webicon.ethiopia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ethiopia-xs.png");}
+.no-svg .flag-webicon.ethiopia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ethiopia-s.png");}
+.no-svg .flag-webicon.ethiopia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ethiopia-l.png");}
+.no-svg .flag-webicon.ethiopia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ethiopia-xl.png");}
+.svg .flag-webicon.ethiopia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ethiopia.svg");}
+
+/* federated-states-of-micronesia */
+.no-svg .flag-webicon.federated-states-of-micronesia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/federated-states-of-micronesia.png");}
+.no-svg .flag-webicon.federated-states-of-micronesia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/federated-states-of-micronesia-xs.png");}
+.no-svg .flag-webicon.federated-states-of-micronesia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/federated-states-of-micronesia-s.png");}
+.no-svg .flag-webicon.federated-states-of-micronesia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/federated-states-of-micronesia-l.png");}
+.no-svg .flag-webicon.federated-states-of-micronesia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/federated-states-of-micronesia-xl.png");}
+.svg .flag-webicon.federated-states-of-micronesia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/federated-states-of-micronesia.svg");}
+
+/* fiji */
+.no-svg .flag-webicon.fiji {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/fiji.png");}
+.no-svg .flag-webicon.fiji.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/fiji-xs.png");}
+.no-svg .flag-webicon.fiji.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/fiji-s.png");}
+.no-svg .flag-webicon.fiji.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/fiji-l.png");}
+.no-svg .flag-webicon.fiji.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/fiji-xl.png");}
+.svg .flag-webicon.fiji {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/fiji.svg");}
+
+/* finland */
+.no-svg .flag-webicon.finland {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/finland.png");}
+.no-svg .flag-webicon.finland.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/finland-xs.png");}
+.no-svg .flag-webicon.finland.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/finland-s.png");}
+.no-svg .flag-webicon.finland.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/finland-l.png");}
+.no-svg .flag-webicon.finland.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/finland-xl.png");}
+.svg .flag-webicon.finland {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/finland.svg");}
+
+/* france */
+.no-svg .flag-webicon.france {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/france.png");}
+.no-svg .flag-webicon.france.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/france-xs.png");}
+.no-svg .flag-webicon.france.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/france-s.png");}
+.no-svg .flag-webicon.france.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/france-l.png");}
+.no-svg .flag-webicon.france.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/france-xl.png");}
+.svg .flag-webicon.france {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/france.svg");}
+
+/* gabon */
+.no-svg .flag-webicon.gabon {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/gabon.png");}
+.no-svg .flag-webicon.gabon.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/gabon-xs.png");}
+.no-svg .flag-webicon.gabon.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/gabon-s.png");}
+.no-svg .flag-webicon.gabon.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/gabon-l.png");}
+.no-svg .flag-webicon.gabon.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/gabon-xl.png");}
+.svg .flag-webicon.gabon {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/gabon.svg");}
+
+/* gambia */
+.no-svg .flag-webicon.gambia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/gambia.png");}
+.no-svg .flag-webicon.gambia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/gambia-xs.png");}
+.no-svg .flag-webicon.gambia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/gambia-s.png");}
+.no-svg .flag-webicon.gambia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/gambia-l.png");}
+.no-svg .flag-webicon.gambia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/gambia-xl.png");}
+.svg .flag-webicon.gambia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/gambia.svg");}
+
+/* georgia */
+.no-svg .flag-webicon.georgia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/georgia.png");}
+.no-svg .flag-webicon.georgia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/georgia-xs.png");}
+.no-svg .flag-webicon.georgia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/georgia-s.png");}
+.no-svg .flag-webicon.georgia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/georgia-l.png");}
+.no-svg .flag-webicon.georgia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/georgia-xl.png");}
+.svg .flag-webicon.georgia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/georgia.svg");}
+
+/* germany */
+.no-svg .flag-webicon.germany {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/germany.png");}
+.no-svg .flag-webicon.germany.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/germany-xs.png");}
+.no-svg .flag-webicon.germany.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/germany-s.png");}
+.no-svg .flag-webicon.germany.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/germany-l.png");}
+.no-svg .flag-webicon.germany.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/germany-xl.png");}
+.svg .flag-webicon.germany {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/germany.svg");}
+
+/* ghana */
+.no-svg .flag-webicon.ghana {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ghana.png");}
+.no-svg .flag-webicon.ghana.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ghana-xs.png");}
+.no-svg .flag-webicon.ghana.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ghana-s.png");}
+.no-svg .flag-webicon.ghana.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ghana-l.png");}
+.no-svg .flag-webicon.ghana.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ghana-xl.png");}
+.svg .flag-webicon.ghana {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ghana.svg");}
+
+/* greece */
+.no-svg .flag-webicon.greece {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/greece.png");}
+.no-svg .flag-webicon.greece.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/greece-xs.png");}
+.no-svg .flag-webicon.greece.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/greece-s.png");}
+.no-svg .flag-webicon.greece.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/greece-l.png");}
+.no-svg .flag-webicon.greece.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/greece-xl.png");}
+.svg .flag-webicon.greece {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/greece.svg");}
+
+/* grenada */
+.no-svg .flag-webicon.grenada {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/grenada.png");}
+.no-svg .flag-webicon.grenada.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/grenada-xs.png");}
+.no-svg .flag-webicon.grenada.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/grenada-s.png");}
+.no-svg .flag-webicon.grenada.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/grenada-l.png");}
+.no-svg .flag-webicon.grenada.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/grenada-xl.png");}
+.svg .flag-webicon.grenada {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/grenada.svg");}
+
+/* guatemala */
+.no-svg .flag-webicon.guatemala {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guatemala.png");}
+.no-svg .flag-webicon.guatemala.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guatemala-xs.png");}
+.no-svg .flag-webicon.guatemala.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guatemala-s.png");}
+.no-svg .flag-webicon.guatemala.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guatemala-l.png");}
+.no-svg .flag-webicon.guatemala.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guatemala-xl.png");}
+.svg .flag-webicon.guatemala {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guatemala.svg");}
+
+/* guinea-bissau */
+.no-svg .flag-webicon.guinea-bissau {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guinea-bissau.png");}
+.no-svg .flag-webicon.guinea-bissau.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guinea-bissau-xs.png");}
+.no-svg .flag-webicon.guinea-bissau.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guinea-bissau-s.png");}
+.no-svg .flag-webicon.guinea-bissau.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guinea-bissau-l.png");}
+.no-svg .flag-webicon.guinea-bissau.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guinea-bissau-xl.png");}
+.svg .flag-webicon.guinea-bissau {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guinea-bissau.svg");}
+
+/* guinea */
+.no-svg .flag-webicon.guinea {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guinea.png");}
+.no-svg .flag-webicon.guinea.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guinea-xs.png");}
+.no-svg .flag-webicon.guinea.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guinea-s.png");}
+.no-svg .flag-webicon.guinea.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guinea-l.png");}
+.no-svg .flag-webicon.guinea.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guinea-xl.png");}
+.svg .flag-webicon.guinea {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guinea.svg");}
+
+/* guyana */
+.no-svg .flag-webicon.guyana {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guyana.png");}
+.no-svg .flag-webicon.guyana.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guyana-xs.png");}
+.no-svg .flag-webicon.guyana.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guyana-s.png");}
+.no-svg .flag-webicon.guyana.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guyana-l.png");}
+.no-svg .flag-webicon.guyana.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guyana-xl.png");}
+.svg .flag-webicon.guyana {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/guyana.svg");}
+
+/* haiti */
+.no-svg .flag-webicon.haiti {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/haiti.png");}
+.no-svg .flag-webicon.haiti.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/haiti-xs.png");}
+.no-svg .flag-webicon.haiti.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/haiti-s.png");}
+.no-svg .flag-webicon.haiti.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/haiti-l.png");}
+.no-svg .flag-webicon.haiti.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/haiti-xl.png");}
+.svg .flag-webicon.haiti {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/haiti.svg");}
+
+/* honduras */
+.no-svg .flag-webicon.honduras {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/honduras.png");}
+.no-svg .flag-webicon.honduras.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/honduras-xs.png");}
+.no-svg .flag-webicon.honduras.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/honduras-s.png");}
+.no-svg .flag-webicon.honduras.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/honduras-l.png");}
+.no-svg .flag-webicon.honduras.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/honduras-xl.png");}
+.svg .flag-webicon.honduras {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/honduras.svg");}
+
+/* hungary */
+.no-svg .flag-webicon.hungary {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/hungary.png");}
+.no-svg .flag-webicon.hungary.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/hungary-xs.png");}
+.no-svg .flag-webicon.hungary.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/hungary-s.png");}
+.no-svg .flag-webicon.hungary.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/hungary-l.png");}
+.no-svg .flag-webicon.hungary.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/hungary-xl.png");}
+.svg .flag-webicon.hungary {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/hungary.svg");}
+
+/* iceland */
+.no-svg .flag-webicon.iceland {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iceland.png");}
+.no-svg .flag-webicon.iceland.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iceland-xs.png");}
+.no-svg .flag-webicon.iceland.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iceland-s.png");}
+.no-svg .flag-webicon.iceland.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iceland-l.png");}
+.no-svg .flag-webicon.iceland.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iceland-xl.png");}
+.svg .flag-webicon.iceland {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iceland.svg");}
+
+/* india */
+.no-svg .flag-webicon.india {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/india.png");}
+.no-svg .flag-webicon.india.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/india-xs.png");}
+.no-svg .flag-webicon.india.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/india-s.png");}
+.no-svg .flag-webicon.india.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/india-l.png");}
+.no-svg .flag-webicon.india.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/india-xl.png");}
+.svg .flag-webicon.india {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/india.svg");}
+
+/* indonesia */
+.no-svg .flag-webicon.indonesia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/indonesia.png");}
+.no-svg .flag-webicon.indonesia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/indonesia-xs.png");}
+.no-svg .flag-webicon.indonesia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/indonesia-s.png");}
+.no-svg .flag-webicon.indonesia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/indonesia-l.png");}
+.no-svg .flag-webicon.indonesia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/indonesia-xl.png");}
+.svg .flag-webicon.indonesia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/indonesia.svg");}
+
+/* iran */
+.no-svg .flag-webicon.iran {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iran.png");}
+.no-svg .flag-webicon.iran.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iran-xs.png");}
+.no-svg .flag-webicon.iran.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iran-s.png");}
+.no-svg .flag-webicon.iran.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iran-l.png");}
+.no-svg .flag-webicon.iran.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iran-xl.png");}
+.svg .flag-webicon.iran {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iran.svg");}
+
+/* iraq */
+.no-svg .flag-webicon.iraq {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iraq.png");}
+.no-svg .flag-webicon.iraq.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iraq-xs.png");}
+.no-svg .flag-webicon.iraq.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iraq-s.png");}
+.no-svg .flag-webicon.iraq.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iraq-l.png");}
+.no-svg .flag-webicon.iraq.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iraq-xl.png");}
+.svg .flag-webicon.iraq {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/iraq.svg");}
+
+/* ireland */
+.no-svg .flag-webicon.ireland {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ireland.png");}
+.no-svg .flag-webicon.ireland.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ireland-xs.png");}
+.no-svg .flag-webicon.ireland.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ireland-s.png");}
+.no-svg .flag-webicon.ireland.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ireland-l.png");}
+.no-svg .flag-webicon.ireland.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ireland-xl.png");}
+.svg .flag-webicon.ireland {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ireland.svg");}
+
+/* israel */
+.no-svg .flag-webicon.israel {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/israel.png");}
+.no-svg .flag-webicon.israel.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/israel-xs.png");}
+.no-svg .flag-webicon.israel.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/israel-s.png");}
+.no-svg .flag-webicon.israel.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/israel-l.png");}
+.no-svg .flag-webicon.israel.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/israel-xl.png");}
+.svg .flag-webicon.israel {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/israel.svg");}
+
+/* italy */
+.no-svg .flag-webicon.italy {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/italy.png");}
+.no-svg .flag-webicon.italy.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/italy-xs.png");}
+.no-svg .flag-webicon.italy.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/italy-s.png");}
+.no-svg .flag-webicon.italy.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/italy-l.png");}
+.no-svg .flag-webicon.italy.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/italy-xl.png");}
+.svg .flag-webicon.italy {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/italy.svg");}
+
+/* jamaica */
+.no-svg .flag-webicon.jamaica {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/jamaica.png");}
+.no-svg .flag-webicon.jamaica.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/jamaica-xs.png");}
+.no-svg .flag-webicon.jamaica.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/jamaica-s.png");}
+.no-svg .flag-webicon.jamaica.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/jamaica-l.png");}
+.no-svg .flag-webicon.jamaica.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/jamaica-xl.png");}
+.svg .flag-webicon.jamaica {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/jamaica.svg");}
+
+/* japan */
+.no-svg .flag-webicon.japan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/japan.png");}
+.no-svg .flag-webicon.japan.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/japan-xs.png");}
+.no-svg .flag-webicon.japan.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/japan-s.png");}
+.no-svg .flag-webicon.japan.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/japan-l.png");}
+.no-svg .flag-webicon.japan.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/japan-xl.png");}
+.svg .flag-webicon.japan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/japan.svg");}
+
+/* jordan */
+.no-svg .flag-webicon.jordan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/jordan.png");}
+.no-svg .flag-webicon.jordan.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/jordan-xs.png");}
+.no-svg .flag-webicon.jordan.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/jordan-s.png");}
+.no-svg .flag-webicon.jordan.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/jordan-l.png");}
+.no-svg .flag-webicon.jordan.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/jordan-xl.png");}
+.svg .flag-webicon.jordan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/jordan.svg");}
+
+/* kazakhstan */
+.no-svg .flag-webicon.kazakhstan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kazakhstan.png");}
+.no-svg .flag-webicon.kazakhstan.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kazakhstan-xs.png");}
+.no-svg .flag-webicon.kazakhstan.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kazakhstan-s.png");}
+.no-svg .flag-webicon.kazakhstan.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kazakhstan-l.png");}
+.no-svg .flag-webicon.kazakhstan.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kazakhstan-xl.png");}
+.svg .flag-webicon.kazakhstan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kazakhstan.svg");}
+
+/* kenya */
+.no-svg .flag-webicon.kenya {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kenya.png");}
+.no-svg .flag-webicon.kenya.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kenya-xs.png");}
+.no-svg .flag-webicon.kenya.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kenya-s.png");}
+.no-svg .flag-webicon.kenya.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kenya-l.png");}
+.no-svg .flag-webicon.kenya.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kenya-xl.png");}
+.svg .flag-webicon.kenya {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kenya.svg");}
+
+/* kiribati */
+.no-svg .flag-webicon.kiribati {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kiribati.png");}
+.no-svg .flag-webicon.kiribati.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kiribati-xs.png");}
+.no-svg .flag-webicon.kiribati.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kiribati-s.png");}
+.no-svg .flag-webicon.kiribati.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kiribati-l.png");}
+.no-svg .flag-webicon.kiribati.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kiribati-xl.png");}
+.svg .flag-webicon.kiribati {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kiribati.svg");}
+
+/* kuwait */
+.no-svg .flag-webicon.kuwait {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kuwait.png");}
+.no-svg .flag-webicon.kuwait.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kuwait-xs.png");}
+.no-svg .flag-webicon.kuwait.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kuwait-s.png");}
+.no-svg .flag-webicon.kuwait.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kuwait-l.png");}
+.no-svg .flag-webicon.kuwait.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kuwait-xl.png");}
+.svg .flag-webicon.kuwait {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kuwait.svg");}
+
+/* kyrgyzstan */
+.no-svg .flag-webicon.kyrgyzstan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kyrgyzstan.png");}
+.no-svg .flag-webicon.kyrgyzstan.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kyrgyzstan-xs.png");}
+.no-svg .flag-webicon.kyrgyzstan.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kyrgyzstan-s.png");}
+.no-svg .flag-webicon.kyrgyzstan.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kyrgyzstan-l.png");}
+.no-svg .flag-webicon.kyrgyzstan.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kyrgyzstan-xl.png");}
+.svg .flag-webicon.kyrgyzstan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/kyrgyzstan.svg");}
+
+/* laos */
+.no-svg .flag-webicon.laos {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/laos.png");}
+.no-svg .flag-webicon.laos.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/laos-xs.png");}
+.no-svg .flag-webicon.laos.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/laos-s.png");}
+.no-svg .flag-webicon.laos.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/laos-l.png");}
+.no-svg .flag-webicon.laos.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/laos-xl.png");}
+.svg .flag-webicon.laos {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/laos.svg");}
+
+/* latvia */
+.no-svg .flag-webicon.latvia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/latvia.png");}
+.no-svg .flag-webicon.latvia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/latvia-xs.png");}
+.no-svg .flag-webicon.latvia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/latvia-s.png");}
+.no-svg .flag-webicon.latvia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/latvia-l.png");}
+.no-svg .flag-webicon.latvia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/latvia-xl.png");}
+.svg .flag-webicon.latvia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/latvia.svg");}
+
+/* lebanon */
+.no-svg .flag-webicon.lebanon {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lebanon.png");}
+.no-svg .flag-webicon.lebanon.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lebanon-xs.png");}
+.no-svg .flag-webicon.lebanon.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lebanon-s.png");}
+.no-svg .flag-webicon.lebanon.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lebanon-l.png");}
+.no-svg .flag-webicon.lebanon.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lebanon-xl.png");}
+.svg .flag-webicon.lebanon {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lebanon.svg");}
+
+/* lesotho */
+.no-svg .flag-webicon.lesotho {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lesotho.png");}
+.no-svg .flag-webicon.lesotho.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lesotho-xs.png");}
+.no-svg .flag-webicon.lesotho.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lesotho-s.png");}
+.no-svg .flag-webicon.lesotho.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lesotho-l.png");}
+.no-svg .flag-webicon.lesotho.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lesotho-xl.png");}
+.svg .flag-webicon.lesotho {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lesotho.svg");}
+
+/* liberia */
+.no-svg .flag-webicon.liberia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/liberia.png");}
+.no-svg .flag-webicon.liberia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/liberia-xs.png");}
+.no-svg .flag-webicon.liberia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/liberia-s.png");}
+.no-svg .flag-webicon.liberia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/liberia-l.png");}
+.no-svg .flag-webicon.liberia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/liberia-xl.png");}
+.svg .flag-webicon.liberia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/liberia.svg");}
+
+/* libya */
+.no-svg .flag-webicon.libya {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/libya.png");}
+.no-svg .flag-webicon.libya.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/libya-xs.png");}
+.no-svg .flag-webicon.libya.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/libya-s.png");}
+.no-svg .flag-webicon.libya.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/libya-l.png");}
+.no-svg .flag-webicon.libya.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/libya-xl.png");}
+.svg .flag-webicon.libya {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/libya.svg");}
+
+/* liechtenstein */
+.no-svg .flag-webicon.liechtenstein {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/liechtenstein.png");}
+.no-svg .flag-webicon.liechtenstein.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/liechtenstein-xs.png");}
+.no-svg .flag-webicon.liechtenstein.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/liechtenstein-s.png");}
+.no-svg .flag-webicon.liechtenstein.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/liechtenstein-l.png");}
+.no-svg .flag-webicon.liechtenstein.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/liechtenstein-xl.png");}
+.svg .flag-webicon.liechtenstein {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/liechtenstein.svg");}
+
+/* lithuania */
+.no-svg .flag-webicon.lithuania {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lithuania.png");}
+.no-svg .flag-webicon.lithuania.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lithuania-xs.png");}
+.no-svg .flag-webicon.lithuania.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lithuania-s.png");}
+.no-svg .flag-webicon.lithuania.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lithuania-l.png");}
+.no-svg .flag-webicon.lithuania.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lithuania-xl.png");}
+.svg .flag-webicon.lithuania {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/lithuania.svg");}
+
+/* luxembourg */
+.no-svg .flag-webicon.luxembourg {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/luxembourg.png");}
+.no-svg .flag-webicon.luxembourg.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/luxembourg-xs.png");}
+.no-svg .flag-webicon.luxembourg.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/luxembourg-s.png");}
+.no-svg .flag-webicon.luxembourg.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/luxembourg-l.png");}
+.no-svg .flag-webicon.luxembourg.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/luxembourg-xl.png");}
+.svg .flag-webicon.luxembourg {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/luxembourg.svg");}
+
+/* macedonia */
+.no-svg .flag-webicon.macedonia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/macedonia.png");}
+.no-svg .flag-webicon.macedonia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/macedonia-xs.png");}
+.no-svg .flag-webicon.macedonia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/macedonia-s.png");}
+.no-svg .flag-webicon.macedonia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/macedonia-l.png");}
+.no-svg .flag-webicon.macedonia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/macedonia-xl.png");}
+.svg .flag-webicon.macedonia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/macedonia.svg");}
+
+/* madagascar */
+.no-svg .flag-webicon.madagascar {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/madagascar.png");}
+.no-svg .flag-webicon.madagascar.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/madagascar-xs.png");}
+.no-svg .flag-webicon.madagascar.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/madagascar-s.png");}
+.no-svg .flag-webicon.madagascar.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/madagascar-l.png");}
+.no-svg .flag-webicon.madagascar.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/madagascar-xl.png");}
+.svg .flag-webicon.madagascar {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/madagascar.svg");}
+
+/* malawi */
+.no-svg .flag-webicon.malawi {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malawi.png");}
+.no-svg .flag-webicon.malawi.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malawi-xs.png");}
+.no-svg .flag-webicon.malawi.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malawi-s.png");}
+.no-svg .flag-webicon.malawi.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malawi-l.png");}
+.no-svg .flag-webicon.malawi.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malawi-xl.png");}
+.svg .flag-webicon.malawi {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malawi.svg");}
+
+/* malaysia */
+.no-svg .flag-webicon.malaysia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malaysia.png");}
+.no-svg .flag-webicon.malaysia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malaysia-xs.png");}
+.no-svg .flag-webicon.malaysia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malaysia-s.png");}
+.no-svg .flag-webicon.malaysia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malaysia-l.png");}
+.no-svg .flag-webicon.malaysia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malaysia-xl.png");}
+.svg .flag-webicon.malaysia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malaysia.svg");}
+
+/* maldives */
+.no-svg .flag-webicon.maldives {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/maldives.png");}
+.no-svg .flag-webicon.maldives.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/maldives-xs.png");}
+.no-svg .flag-webicon.maldives.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/maldives-s.png");}
+.no-svg .flag-webicon.maldives.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/maldives-l.png");}
+.no-svg .flag-webicon.maldives.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/maldives-xl.png");}
+.svg .flag-webicon.maldives {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/maldives.svg");}
+
+/* mali */
+.no-svg .flag-webicon.mali {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mali.png");}
+.no-svg .flag-webicon.mali.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mali-xs.png");}
+.no-svg .flag-webicon.mali.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mali-s.png");}
+.no-svg .flag-webicon.mali.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mali-l.png");}
+.no-svg .flag-webicon.mali.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mali-xl.png");}
+.svg .flag-webicon.mali {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mali.svg");}
+
+/* malta */
+.no-svg .flag-webicon.malta {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malta.png");}
+.no-svg .flag-webicon.malta.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malta-xs.png");}
+.no-svg .flag-webicon.malta.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malta-s.png");}
+.no-svg .flag-webicon.malta.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malta-l.png");}
+.no-svg .flag-webicon.malta.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malta-xl.png");}
+.svg .flag-webicon.malta {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/malta.svg");}
+
+/* marshall-islands */
+.no-svg .flag-webicon.marshall-islands {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/marshall-islands.png");}
+.no-svg .flag-webicon.marshall-islands.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/marshall-islands-xs.png");}
+.no-svg .flag-webicon.marshall-islands.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/marshall-islands-s.png");}
+.no-svg .flag-webicon.marshall-islands.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/marshall-islands-l.png");}
+.no-svg .flag-webicon.marshall-islands.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/marshall-islands-xl.png");}
+.svg .flag-webicon.marshall-islands {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/marshall-islands.svg");}
+
+/* mauritania */
+.no-svg .flag-webicon.mauritania {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mauritania.png");}
+.no-svg .flag-webicon.mauritania.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mauritania-xs.png");}
+.no-svg .flag-webicon.mauritania.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mauritania-s.png");}
+.no-svg .flag-webicon.mauritania.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mauritania-l.png");}
+.no-svg .flag-webicon.mauritania.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mauritania-xl.png");}
+.svg .flag-webicon.mauritania {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mauritania.svg");}
+
+/* mauritius */
+.no-svg .flag-webicon.mauritius {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mauritius.png");}
+.no-svg .flag-webicon.mauritius.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mauritius-xs.png");}
+.no-svg .flag-webicon.mauritius.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mauritius-s.png");}
+.no-svg .flag-webicon.mauritius.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mauritius-l.png");}
+.no-svg .flag-webicon.mauritius.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mauritius-xl.png");}
+.svg .flag-webicon.mauritius {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mauritius.svg");}
+
+/* mexico */
+.no-svg .flag-webicon.mexico {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mexico.png");}
+.no-svg .flag-webicon.mexico.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mexico-xs.png");}
+.no-svg .flag-webicon.mexico.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mexico-s.png");}
+.no-svg .flag-webicon.mexico.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mexico-l.png");}
+.no-svg .flag-webicon.mexico.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mexico-xl.png");}
+.svg .flag-webicon.mexico {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mexico.svg");}
+
+/* moldova */
+.no-svg .flag-webicon.moldova {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/moldova.png");}
+.no-svg .flag-webicon.moldova.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/moldova-xs.png");}
+.no-svg .flag-webicon.moldova.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/moldova-s.png");}
+.no-svg .flag-webicon.moldova.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/moldova-l.png");}
+.no-svg .flag-webicon.moldova.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/moldova-xl.png");}
+.svg .flag-webicon.moldova {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/moldova.svg");}
+
+/* monaco */
+.no-svg .flag-webicon.monaco {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/monaco.png");}
+.no-svg .flag-webicon.monaco.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/monaco-xs.png");}
+.no-svg .flag-webicon.monaco.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/monaco-s.png");}
+.no-svg .flag-webicon.monaco.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/monaco-l.png");}
+.no-svg .flag-webicon.monaco.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/monaco-xl.png");}
+.svg .flag-webicon.monaco {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/monaco.svg");}
+
+/* mongolia */
+.no-svg .flag-webicon.mongolia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mongolia.png");}
+.no-svg .flag-webicon.mongolia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mongolia-xs.png");}
+.no-svg .flag-webicon.mongolia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mongolia-s.png");}
+.no-svg .flag-webicon.mongolia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mongolia-l.png");}
+.no-svg .flag-webicon.mongolia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mongolia-xl.png");}
+.svg .flag-webicon.mongolia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mongolia.svg");}
+
+/* montenegro */
+.no-svg .flag-webicon.montenegro {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/montenegro.png");}
+.no-svg .flag-webicon.montenegro.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/montenegro-xs.png");}
+.no-svg .flag-webicon.montenegro.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/montenegro-s.png");}
+.no-svg .flag-webicon.montenegro.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/montenegro-l.png");}
+.no-svg .flag-webicon.montenegro.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/montenegro-xl.png");}
+.svg .flag-webicon.montenegro {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/montenegro.svg");}
+
+/* morocco */
+.no-svg .flag-webicon.morocco {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/morocco.png");}
+.no-svg .flag-webicon.morocco.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/morocco-xs.png");}
+.no-svg .flag-webicon.morocco.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/morocco-s.png");}
+.no-svg .flag-webicon.morocco.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/morocco-l.png");}
+.no-svg .flag-webicon.morocco.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/morocco-xl.png");}
+.svg .flag-webicon.morocco {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/morocco.svg");}
+
+/* mozambique */
+.no-svg .flag-webicon.mozambique {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mozambique.png");}
+.no-svg .flag-webicon.mozambique.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mozambique-xs.png");}
+.no-svg .flag-webicon.mozambique.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mozambique-s.png");}
+.no-svg .flag-webicon.mozambique.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mozambique-l.png");}
+.no-svg .flag-webicon.mozambique.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mozambique-xl.png");}
+.svg .flag-webicon.mozambique {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/mozambique.svg");}
+
+/* myanmar */
+.no-svg .flag-webicon.myanmar {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/myanmar.png");}
+.no-svg .flag-webicon.myanmar.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/myanmar-xs.png");}
+.no-svg .flag-webicon.myanmar.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/myanmar-s.png");}
+.no-svg .flag-webicon.myanmar.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/myanmar-l.png");}
+.no-svg .flag-webicon.myanmar.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/myanmar-xl.png");}
+.svg .flag-webicon.myanmar {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/myanmar.svg");}
+
+/* namibia */
+.no-svg .flag-webicon.namibia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/namibia.png");}
+.no-svg .flag-webicon.namibia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/namibia-xs.png");}
+.no-svg .flag-webicon.namibia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/namibia-s.png");}
+.no-svg .flag-webicon.namibia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/namibia-l.png");}
+.no-svg .flag-webicon.namibia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/namibia-xl.png");}
+.svg .flag-webicon.namibia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/namibia.svg");}
+
+/* nauru */
+.no-svg .flag-webicon.nauru {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nauru.png");}
+.no-svg .flag-webicon.nauru.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nauru-xs.png");}
+.no-svg .flag-webicon.nauru.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nauru-s.png");}
+.no-svg .flag-webicon.nauru.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nauru-l.png");}
+.no-svg .flag-webicon.nauru.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nauru-xl.png");}
+.svg .flag-webicon.nauru {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nauru.svg");}
+
+/* nepal */
+.no-svg .flag-webicon.nepal {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nepal.png");}
+.no-svg .flag-webicon.nepal.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nepal-xs.png");}
+.no-svg .flag-webicon.nepal.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nepal-s.png");}
+.no-svg .flag-webicon.nepal.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nepal-l.png");}
+.no-svg .flag-webicon.nepal.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nepal-xl.png");}
+.svg .flag-webicon.nepal {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nepal.svg");}
+
+/* netherlands */
+.no-svg .flag-webicon.netherlands {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/netherlands.png");}
+.no-svg .flag-webicon.netherlands.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/netherlands-xs.png");}
+.no-svg .flag-webicon.netherlands.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/netherlands-s.png");}
+.no-svg .flag-webicon.netherlands.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/netherlands-l.png");}
+.no-svg .flag-webicon.netherlands.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/netherlands-xl.png");}
+.svg .flag-webicon.netherlands {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/netherlands.svg");}
+
+/* new-zealand */
+.no-svg .flag-webicon.new-zealand {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/new-zealand.png");}
+.no-svg .flag-webicon.new-zealand.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/new-zealand-xs.png");}
+.no-svg .flag-webicon.new-zealand.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/new-zealand-s.png");}
+.no-svg .flag-webicon.new-zealand.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/new-zealand-l.png");}
+.no-svg .flag-webicon.new-zealand.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/new-zealand-xl.png");}
+.svg .flag-webicon.new-zealand {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/new-zealand.svg");}
+
+/* nicaragua */
+.no-svg .flag-webicon.nicaragua {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nicaragua.png");}
+.no-svg .flag-webicon.nicaragua.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nicaragua-xs.png");}
+.no-svg .flag-webicon.nicaragua.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nicaragua-s.png");}
+.no-svg .flag-webicon.nicaragua.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nicaragua-l.png");}
+.no-svg .flag-webicon.nicaragua.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nicaragua-xl.png");}
+.svg .flag-webicon.nicaragua {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nicaragua.svg");}
+
+/* niger */
+.no-svg .flag-webicon.niger {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/niger.png");}
+.no-svg .flag-webicon.niger.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/niger-xs.png");}
+.no-svg .flag-webicon.niger.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/niger-s.png");}
+.no-svg .flag-webicon.niger.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/niger-l.png");}
+.no-svg .flag-webicon.niger.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/niger-xl.png");}
+.svg .flag-webicon.niger {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/niger.svg");}
+
+/* nigeria */
+.no-svg .flag-webicon.nigeria {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nigeria.png");}
+.no-svg .flag-webicon.nigeria.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nigeria-xs.png");}
+.no-svg .flag-webicon.nigeria.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nigeria-s.png");}
+.no-svg .flag-webicon.nigeria.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nigeria-l.png");}
+.no-svg .flag-webicon.nigeria.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nigeria-xl.png");}
+.svg .flag-webicon.nigeria {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/nigeria.svg");}
+
+/* north-korea */
+.no-svg .flag-webicon.north-korea {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/north-korea.png");}
+.no-svg .flag-webicon.north-korea.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/north-korea-xs.png");}
+.no-svg .flag-webicon.north-korea.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/north-korea-s.png");}
+.no-svg .flag-webicon.north-korea.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/north-korea-l.png");}
+.no-svg .flag-webicon.north-korea.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/north-korea-xl.png");}
+.svg .flag-webicon.north-korea {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/north-korea.svg");}
+
+/* norway */
+.no-svg .flag-webicon.norway {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/norway.png");}
+.no-svg .flag-webicon.norway.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/norway-xs.png");}
+.no-svg .flag-webicon.norway.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/norway-s.png");}
+.no-svg .flag-webicon.norway.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/norway-l.png");}
+.no-svg .flag-webicon.norway.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/norway-xl.png");}
+.svg .flag-webicon.norway {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/norway.svg");}
+
+/* oman */
+.no-svg .flag-webicon.oman {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/oman.png");}
+.no-svg .flag-webicon.oman.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/oman-xs.png");}
+.no-svg .flag-webicon.oman.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/oman-s.png");}
+.no-svg .flag-webicon.oman.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/oman-l.png");}
+.no-svg .flag-webicon.oman.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/oman-xl.png");}
+.svg .flag-webicon.oman {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/oman.svg");}
+
+/* pakistan */
+.no-svg .flag-webicon.pakistan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/pakistan.png");}
+.no-svg .flag-webicon.pakistan.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/pakistan-xs.png");}
+.no-svg .flag-webicon.pakistan.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/pakistan-s.png");}
+.no-svg .flag-webicon.pakistan.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/pakistan-l.png");}
+.no-svg .flag-webicon.pakistan.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/pakistan-xl.png");}
+.svg .flag-webicon.pakistan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/pakistan.svg");}
+
+/* palau */
+.no-svg .flag-webicon.palau {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/palau.png");}
+.no-svg .flag-webicon.palau.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/palau-xs.png");}
+.no-svg .flag-webicon.palau.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/palau-s.png");}
+.no-svg .flag-webicon.palau.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/palau-l.png");}
+.no-svg .flag-webicon.palau.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/palau-xl.png");}
+.svg .flag-webicon.palau {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/palau.svg");}
+
+/* palestine */
+.no-svg .flag-webicon.palestine {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/palestine.png");}
+.no-svg .flag-webicon.palestine.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/palestine-xs.png");}
+.no-svg .flag-webicon.palestine.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/palestine-s.png");}
+.no-svg .flag-webicon.palestine.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/palestine-l.png");}
+.no-svg .flag-webicon.palestine.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/palestine-xl.png");}
+.svg .flag-webicon.palestine {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/palestine.svg");}
+
+/* panama */
+.no-svg .flag-webicon.panama {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/panama.png");}
+.no-svg .flag-webicon.panama.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/panama-xs.png");}
+.no-svg .flag-webicon.panama.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/panama-s.png");}
+.no-svg .flag-webicon.panama.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/panama-l.png");}
+.no-svg .flag-webicon.panama.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/panama-xl.png");}
+.svg .flag-webicon.panama {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/panama.svg");}
+
+/* papua-new-guinea */
+.no-svg .flag-webicon.papua-new-guinea {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/papua-new-guinea.png");}
+.no-svg .flag-webicon.papua-new-guinea.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/papua-new-guinea-xs.png");}
+.no-svg .flag-webicon.papua-new-guinea.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/papua-new-guinea-s.png");}
+.no-svg .flag-webicon.papua-new-guinea.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/papua-new-guinea-l.png");}
+.no-svg .flag-webicon.papua-new-guinea.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/papua-new-guinea-xl.png");}
+.svg .flag-webicon.papua-new-guinea {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/papua-new-guinea.svg");}
+
+/* paraguay */
+.no-svg .flag-webicon.paraguay {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/paraguay.png");}
+.no-svg .flag-webicon.paraguay.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/paraguay-xs.png");}
+.no-svg .flag-webicon.paraguay.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/paraguay-s.png");}
+.no-svg .flag-webicon.paraguay.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/paraguay-l.png");}
+.no-svg .flag-webicon.paraguay.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/paraguay-xl.png");}
+.svg .flag-webicon.paraguay {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/paraguay.svg");}
+
+/* peoples-republic-of-china */
+.no-svg .flag-webicon.peoples-republic-of-china {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/peoples-republic-of-china.png");}
+.no-svg .flag-webicon.peoples-republic-of-china.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/peoples-republic-of-china-xs.png");}
+.no-svg .flag-webicon.peoples-republic-of-china.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/peoples-republic-of-china-s.png");}
+.no-svg .flag-webicon.peoples-republic-of-china.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/peoples-republic-of-china-l.png");}
+.no-svg .flag-webicon.peoples-republic-of-china.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/peoples-republic-of-china-xl.png");}
+.svg .flag-webicon.peoples-republic-of-china {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/peoples-republic-of-china.svg");}
+
+/* peru */
+.no-svg .flag-webicon.peru {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/peru.png");}
+.no-svg .flag-webicon.peru.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/peru-xs.png");}
+.no-svg .flag-webicon.peru.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/peru-s.png");}
+.no-svg .flag-webicon.peru.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/peru-l.png");}
+.no-svg .flag-webicon.peru.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/peru-xl.png");}
+.svg .flag-webicon.peru {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/peru.svg");}
+
+/* philippines */
+.no-svg .flag-webicon.philippines {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/philippines.png");}
+.no-svg .flag-webicon.philippines.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/philippines-xs.png");}
+.no-svg .flag-webicon.philippines.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/philippines-s.png");}
+.no-svg .flag-webicon.philippines.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/philippines-l.png");}
+.no-svg .flag-webicon.philippines.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/philippines-xl.png");}
+.svg .flag-webicon.philippines {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/philippines.svg");}
+
+/* poland */
+.no-svg .flag-webicon.poland {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/poland.png");}
+.no-svg .flag-webicon.poland.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/poland-xs.png");}
+.no-svg .flag-webicon.poland.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/poland-s.png");}
+.no-svg .flag-webicon.poland.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/poland-l.png");}
+.no-svg .flag-webicon.poland.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/poland-xl.png");}
+.svg .flag-webicon.poland {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/poland.svg");}
+
+/* portugal */
+.no-svg .flag-webicon.portugal {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/portugal.png");}
+.no-svg .flag-webicon.portugal.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/portugal-xs.png");}
+.no-svg .flag-webicon.portugal.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/portugal-s.png");}
+.no-svg .flag-webicon.portugal.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/portugal-l.png");}
+.no-svg .flag-webicon.portugal.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/portugal-xl.png");}
+.svg .flag-webicon.portugal {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/portugal.svg");}
+
+/* qatar */
+.no-svg .flag-webicon.qatar {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/qatar.png");}
+.no-svg .flag-webicon.qatar.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/qatar-xs.png");}
+.no-svg .flag-webicon.qatar.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/qatar-s.png");}
+.no-svg .flag-webicon.qatar.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/qatar-l.png");}
+.no-svg .flag-webicon.qatar.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/qatar-xl.png");}
+.svg .flag-webicon.qatar {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/qatar.svg");}
+
+/* republic-of-china */
+.no-svg .flag-webicon.republic-of-china {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/republic-of-china.png");}
+.no-svg .flag-webicon.republic-of-china.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/republic-of-china-xs.png");}
+.no-svg .flag-webicon.republic-of-china.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/republic-of-china-s.png");}
+.no-svg .flag-webicon.republic-of-china.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/republic-of-china-l.png");}
+.no-svg .flag-webicon.republic-of-china.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/republic-of-china-xl.png");}
+.svg .flag-webicon.republic-of-china {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/republic-of-china.svg");}
+
+/* republic-of-the-congo */
+.no-svg .flag-webicon.republic-of-the-congo {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/republic-of-the-congo.png");}
+.no-svg .flag-webicon.republic-of-the-congo.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/republic-of-the-congo-xs.png");}
+.no-svg .flag-webicon.republic-of-the-congo.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/republic-of-the-congo-s.png");}
+.no-svg .flag-webicon.republic-of-the-congo.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/republic-of-the-congo-l.png");}
+.no-svg .flag-webicon.republic-of-the-congo.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/republic-of-the-congo-xl.png");}
+.svg .flag-webicon.republic-of-the-congo {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/republic-of-the-congo.svg");}
+
+/* romania */
+.no-svg .flag-webicon.romania {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/romania.png");}
+.no-svg .flag-webicon.romania.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/romania-xs.png");}
+.no-svg .flag-webicon.romania.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/romania-s.png");}
+.no-svg .flag-webicon.romania.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/romania-l.png");}
+.no-svg .flag-webicon.romania.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/romania-xl.png");}
+.svg .flag-webicon.romania {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/romania.svg");}
+
+/* russia */
+.no-svg .flag-webicon.russia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/russia.png");}
+.no-svg .flag-webicon.russia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/russia-xs.png");}
+.no-svg .flag-webicon.russia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/russia-s.png");}
+.no-svg .flag-webicon.russia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/russia-l.png");}
+.no-svg .flag-webicon.russia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/russia-xl.png");}
+.svg .flag-webicon.russia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/russia.svg");}
+
+/* rwanda */
+.no-svg .flag-webicon.rwanda {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/rwanda.png");}
+.no-svg .flag-webicon.rwanda.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/rwanda-xs.png");}
+.no-svg .flag-webicon.rwanda.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/rwanda-s.png");}
+.no-svg .flag-webicon.rwanda.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/rwanda-l.png");}
+.no-svg .flag-webicon.rwanda.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/rwanda-xl.png");}
+.svg .flag-webicon.rwanda {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/rwanda.svg");}
+
+/* saint-kitts-and-nevis */
+.no-svg .flag-webicon.saint-kitts-and-nevis {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-kitts-and-nevis.png");}
+.no-svg .flag-webicon.saint-kitts-and-nevis.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-kitts-and-nevis-xs.png");}
+.no-svg .flag-webicon.saint-kitts-and-nevis.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-kitts-and-nevis-s.png");}
+.no-svg .flag-webicon.saint-kitts-and-nevis.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-kitts-and-nevis-l.png");}
+.no-svg .flag-webicon.saint-kitts-and-nevis.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-kitts-and-nevis-xl.png");}
+.svg .flag-webicon.saint-kitts-and-nevis {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-kitts-and-nevis.svg");}
+
+/* saint-lucia */
+.no-svg .flag-webicon.saint-lucia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-lucia.png");}
+.no-svg .flag-webicon.saint-lucia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-lucia-xs.png");}
+.no-svg .flag-webicon.saint-lucia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-lucia-s.png");}
+.no-svg .flag-webicon.saint-lucia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-lucia-l.png");}
+.no-svg .flag-webicon.saint-lucia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-lucia-xl.png");}
+.svg .flag-webicon.saint-lucia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-lucia.svg");}
+
+/* saint-vincent-and-the-grenadines */
+.no-svg .flag-webicon.saint-vincent-and-the-grenadines {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-vincent-and-the-grenadines.png");}
+.no-svg .flag-webicon.saint-vincent-and-the-grenadines.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-vincent-and-the-grenadines-xs.png");}
+.no-svg .flag-webicon.saint-vincent-and-the-grenadines.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-vincent-and-the-grenadines-s.png");}
+.no-svg .flag-webicon.saint-vincent-and-the-grenadines.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-vincent-and-the-grenadines-l.png");}
+.no-svg .flag-webicon.saint-vincent-and-the-grenadines.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-vincent-and-the-grenadines-xl.png");}
+.svg .flag-webicon.saint-vincent-and-the-grenadines {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saint-vincent-and-the-grenadines.svg");}
+
+/* samoa */
+.no-svg .flag-webicon.samoa {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/samoa.png");}
+.no-svg .flag-webicon.samoa.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/samoa-xs.png");}
+.no-svg .flag-webicon.samoa.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/samoa-s.png");}
+.no-svg .flag-webicon.samoa.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/samoa-l.png");}
+.no-svg .flag-webicon.samoa.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/samoa-xl.png");}
+.svg .flag-webicon.samoa {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/samoa.svg");}
+
+/* san-marino */
+.no-svg .flag-webicon.san-marino {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/san-marino.png");}
+.no-svg .flag-webicon.san-marino.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/san-marino-xs.png");}
+.no-svg .flag-webicon.san-marino.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/san-marino-s.png");}
+.no-svg .flag-webicon.san-marino.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/san-marino-l.png");}
+.no-svg .flag-webicon.san-marino.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/san-marino-xl.png");}
+.svg .flag-webicon.san-marino {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/san-marino.svg");}
+
+/* sao-tome-and-principe */
+.no-svg .flag-webicon.sao-tome-and-principe {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sao-tome-and-principe.png");}
+.no-svg .flag-webicon.sao-tome-and-principe.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sao-tome-and-principe-xs.png");}
+.no-svg .flag-webicon.sao-tome-and-principe.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sao-tome-and-principe-s.png");}
+.no-svg .flag-webicon.sao-tome-and-principe.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sao-tome-and-principe-l.png");}
+.no-svg .flag-webicon.sao-tome-and-principe.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sao-tome-and-principe-xl.png");}
+.svg .flag-webicon.sao-tome-and-principe {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sao-tome-and-principe.svg");}
+
+/* saudi-arabia */
+.no-svg .flag-webicon.saudi-arabia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saudi-arabia.png");}
+.no-svg .flag-webicon.saudi-arabia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saudi-arabia-xs.png");}
+.no-svg .flag-webicon.saudi-arabia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saudi-arabia-s.png");}
+.no-svg .flag-webicon.saudi-arabia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saudi-arabia-l.png");}
+.no-svg .flag-webicon.saudi-arabia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saudi-arabia-xl.png");}
+.svg .flag-webicon.saudi-arabia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/saudi-arabia.svg");}
+
+/* senegal */
+.no-svg .flag-webicon.senegal {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/senegal.png");}
+.no-svg .flag-webicon.senegal.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/senegal-xs.png");}
+.no-svg .flag-webicon.senegal.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/senegal-s.png");}
+.no-svg .flag-webicon.senegal.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/senegal-l.png");}
+.no-svg .flag-webicon.senegal.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/senegal-xl.png");}
+.svg .flag-webicon.senegal {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/senegal.svg");}
+
+/* serbia */
+.no-svg .flag-webicon.serbia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/serbia.png");}
+.no-svg .flag-webicon.serbia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/serbia-xs.png");}
+.no-svg .flag-webicon.serbia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/serbia-s.png");}
+.no-svg .flag-webicon.serbia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/serbia-l.png");}
+.no-svg .flag-webicon.serbia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/serbia-xl.png");}
+.svg .flag-webicon.serbia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/serbia.svg");}
+
+/* seychelles */
+.no-svg .flag-webicon.seychelles {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/seychelles.png");}
+.no-svg .flag-webicon.seychelles.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/seychelles-xs.png");}
+.no-svg .flag-webicon.seychelles.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/seychelles-s.png");}
+.no-svg .flag-webicon.seychelles.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/seychelles-l.png");}
+.no-svg .flag-webicon.seychelles.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/seychelles-xl.png");}
+.svg .flag-webicon.seychelles {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/seychelles.svg");}
+
+/* sierra-leone */
+.no-svg .flag-webicon.sierra-leone {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sierra-leone.png");}
+.no-svg .flag-webicon.sierra-leone.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sierra-leone-xs.png");}
+.no-svg .flag-webicon.sierra-leone.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sierra-leone-s.png");}
+.no-svg .flag-webicon.sierra-leone.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sierra-leone-l.png");}
+.no-svg .flag-webicon.sierra-leone.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sierra-leone-xl.png");}
+.svg .flag-webicon.sierra-leone {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sierra-leone.svg");}
+
+/* singapore */
+.no-svg .flag-webicon.singapore {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/singapore.png");}
+.no-svg .flag-webicon.singapore.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/singapore-xs.png");}
+.no-svg .flag-webicon.singapore.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/singapore-s.png");}
+.no-svg .flag-webicon.singapore.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/singapore-l.png");}
+.no-svg .flag-webicon.singapore.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/singapore-xl.png");}
+.svg .flag-webicon.singapore {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/singapore.svg");}
+
+/* slovakia */
+.no-svg .flag-webicon.slovakia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/slovakia.png");}
+.no-svg .flag-webicon.slovakia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/slovakia-xs.png");}
+.no-svg .flag-webicon.slovakia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/slovakia-s.png");}
+.no-svg .flag-webicon.slovakia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/slovakia-l.png");}
+.no-svg .flag-webicon.slovakia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/slovakia-xl.png");}
+.svg .flag-webicon.slovakia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/slovakia.svg");}
+
+/* slovenia */
+.no-svg .flag-webicon.slovenia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/slovenia.png");}
+.no-svg .flag-webicon.slovenia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/slovenia-xs.png");}
+.no-svg .flag-webicon.slovenia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/slovenia-s.png");}
+.no-svg .flag-webicon.slovenia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/slovenia-l.png");}
+.no-svg .flag-webicon.slovenia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/slovenia-xl.png");}
+.svg .flag-webicon.slovenia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/slovenia.svg");}
+
+/* solomon-islands */
+.no-svg .flag-webicon.solomon-islands {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/solomon-islands.png");}
+.no-svg .flag-webicon.solomon-islands.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/solomon-islands-xs.png");}
+.no-svg .flag-webicon.solomon-islands.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/solomon-islands-s.png");}
+.no-svg .flag-webicon.solomon-islands.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/solomon-islands-l.png");}
+.no-svg .flag-webicon.solomon-islands.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/solomon-islands-xl.png");}
+.svg .flag-webicon.solomon-islands {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/solomon-islands.svg");}
+
+/* somalia */
+.no-svg .flag-webicon.somalia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/somalia.png");}
+.no-svg .flag-webicon.somalia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/somalia-xs.png");}
+.no-svg .flag-webicon.somalia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/somalia-s.png");}
+.no-svg .flag-webicon.somalia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/somalia-l.png");}
+.no-svg .flag-webicon.somalia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/somalia-xl.png");}
+.svg .flag-webicon.somalia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/somalia.svg");}
+
+/* south-africa */
+.no-svg .flag-webicon.south-africa {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-africa.png");}
+.no-svg .flag-webicon.south-africa.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-africa-xs.png");}
+.no-svg .flag-webicon.south-africa.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-africa-s.png");}
+.no-svg .flag-webicon.south-africa.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-africa-l.png");}
+.no-svg .flag-webicon.south-africa.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-africa-xl.png");}
+.svg .flag-webicon.south-africa {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-africa.svg");}
+
+/* south-korea */
+.no-svg .flag-webicon.south-korea {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-korea.png");}
+.no-svg .flag-webicon.south-korea.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-korea-xs.png");}
+.no-svg .flag-webicon.south-korea.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-korea-s.png");}
+.no-svg .flag-webicon.south-korea.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-korea-l.png");}
+.no-svg .flag-webicon.south-korea.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-korea-xl.png");}
+.svg .flag-webicon.south-korea {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-korea.svg");}
+
+/* south-sudan */
+.no-svg .flag-webicon.south-sudan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-sudan.png");}
+.no-svg .flag-webicon.south-sudan.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-sudan-xs.png");}
+.no-svg .flag-webicon.south-sudan.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-sudan-s.png");}
+.no-svg .flag-webicon.south-sudan.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-sudan-l.png");}
+.no-svg .flag-webicon.south-sudan.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-sudan-xl.png");}
+.svg .flag-webicon.south-sudan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/south-sudan.svg");}
+
+/* spain */
+.no-svg .flag-webicon.spain {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/spain.png");}
+.no-svg .flag-webicon.spain.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/spain-xs.png");}
+.no-svg .flag-webicon.spain.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/spain-s.png");}
+.no-svg .flag-webicon.spain.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/spain-l.png");}
+.no-svg .flag-webicon.spain.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/spain-xl.png");}
+.svg .flag-webicon.spain {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/spain.svg");}
+
+/* sri-lanka */
+.no-svg .flag-webicon.sri-lanka {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sri-lanka.png");}
+.no-svg .flag-webicon.sri-lanka.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sri-lanka-xs.png");}
+.no-svg .flag-webicon.sri-lanka.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sri-lanka-s.png");}
+.no-svg .flag-webicon.sri-lanka.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sri-lanka-l.png");}
+.no-svg .flag-webicon.sri-lanka.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sri-lanka-xl.png");}
+.svg .flag-webicon.sri-lanka {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sri-lanka.svg");}
+
+/* sudan */
+.no-svg .flag-webicon.sudan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sudan.png");}
+.no-svg .flag-webicon.sudan.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sudan-xs.png");}
+.no-svg .flag-webicon.sudan.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sudan-s.png");}
+.no-svg .flag-webicon.sudan.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sudan-l.png");}
+.no-svg .flag-webicon.sudan.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sudan-xl.png");}
+.svg .flag-webicon.sudan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sudan.svg");}
+
+/* suriname */
+.no-svg .flag-webicon.suriname {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/suriname.png");}
+.no-svg .flag-webicon.suriname.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/suriname-xs.png");}
+.no-svg .flag-webicon.suriname.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/suriname-s.png");}
+.no-svg .flag-webicon.suriname.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/suriname-l.png");}
+.no-svg .flag-webicon.suriname.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/suriname-xl.png");}
+.svg .flag-webicon.suriname {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/suriname.svg");}
+
+/* swaziland */
+.no-svg .flag-webicon.swaziland {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/swaziland.png");}
+.no-svg .flag-webicon.swaziland.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/swaziland-xs.png");}
+.no-svg .flag-webicon.swaziland.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/swaziland-s.png");}
+.no-svg .flag-webicon.swaziland.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/swaziland-l.png");}
+.no-svg .flag-webicon.swaziland.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/swaziland-xl.png");}
+.svg .flag-webicon.swaziland {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/swaziland.svg");}
+
+/* sweden */
+.no-svg .flag-webicon.sweden {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sweden.png");}
+.no-svg .flag-webicon.sweden.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sweden-xs.png");}
+.no-svg .flag-webicon.sweden.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sweden-s.png");}
+.no-svg .flag-webicon.sweden.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sweden-l.png");}
+.no-svg .flag-webicon.sweden.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sweden-xl.png");}
+.svg .flag-webicon.sweden {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/sweden.svg");}
+
+/* switzerland */
+.no-svg .flag-webicon.switzerland {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/switzerland.png");}
+.no-svg .flag-webicon.switzerland.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/switzerland-xs.png");}
+.no-svg .flag-webicon.switzerland.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/switzerland-s.png");}
+.no-svg .flag-webicon.switzerland.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/switzerland-l.png");}
+.no-svg .flag-webicon.switzerland.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/switzerland-xl.png");}
+.svg .flag-webicon.switzerland {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/switzerland.svg");}
+
+/* syria */
+.no-svg .flag-webicon.syria {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/syria.png");}
+.no-svg .flag-webicon.syria.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/syria-xs.png");}
+.no-svg .flag-webicon.syria.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/syria-s.png");}
+.no-svg .flag-webicon.syria.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/syria-l.png");}
+.no-svg .flag-webicon.syria.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/syria-xl.png");}
+.svg .flag-webicon.syria {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/syria.svg");}
+
+/* tajikistan */
+.no-svg .flag-webicon.tajikistan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tajikistan.png");}
+.no-svg .flag-webicon.tajikistan.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tajikistan-xs.png");}
+.no-svg .flag-webicon.tajikistan.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tajikistan-s.png");}
+.no-svg .flag-webicon.tajikistan.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tajikistan-l.png");}
+.no-svg .flag-webicon.tajikistan.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tajikistan-xl.png");}
+.svg .flag-webicon.tajikistan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tajikistan.svg");}
+
+/* tanzania */
+.no-svg .flag-webicon.tanzania {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tanzania.png");}
+.no-svg .flag-webicon.tanzania.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tanzania-xs.png");}
+.no-svg .flag-webicon.tanzania.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tanzania-s.png");}
+.no-svg .flag-webicon.tanzania.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tanzania-l.png");}
+.no-svg .flag-webicon.tanzania.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tanzania-xl.png");}
+.svg .flag-webicon.tanzania {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tanzania.svg");}
+
+/* thailand */
+.no-svg .flag-webicon.thailand {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/thailand.png");}
+.no-svg .flag-webicon.thailand.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/thailand-xs.png");}
+.no-svg .flag-webicon.thailand.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/thailand-s.png");}
+.no-svg .flag-webicon.thailand.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/thailand-l.png");}
+.no-svg .flag-webicon.thailand.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/thailand-xl.png");}
+.svg .flag-webicon.thailand {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/thailand.svg");}
+
+/* togo */
+.no-svg .flag-webicon.togo {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/togo.png");}
+.no-svg .flag-webicon.togo.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/togo-xs.png");}
+.no-svg .flag-webicon.togo.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/togo-s.png");}
+.no-svg .flag-webicon.togo.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/togo-l.png");}
+.no-svg .flag-webicon.togo.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/togo-xl.png");}
+.svg .flag-webicon.togo {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/togo.svg");}
+
+/* tonga */
+.no-svg .flag-webicon.tonga {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tonga.png");}
+.no-svg .flag-webicon.tonga.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tonga-xs.png");}
+.no-svg .flag-webicon.tonga.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tonga-s.png");}
+.no-svg .flag-webicon.tonga.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tonga-l.png");}
+.no-svg .flag-webicon.tonga.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tonga-xl.png");}
+.svg .flag-webicon.tonga {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tonga.svg");}
+
+/* trinidad-and-tobago */
+.no-svg .flag-webicon.trinidad-and-tobago {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/trinidad-and-tobago.png");}
+.no-svg .flag-webicon.trinidad-and-tobago.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/trinidad-and-tobago-xs.png");}
+.no-svg .flag-webicon.trinidad-and-tobago.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/trinidad-and-tobago-s.png");}
+.no-svg .flag-webicon.trinidad-and-tobago.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/trinidad-and-tobago-l.png");}
+.no-svg .flag-webicon.trinidad-and-tobago.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/trinidad-and-tobago-xl.png");}
+.svg .flag-webicon.trinidad-and-tobago {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/trinidad-and-tobago.svg");}
+
+/* tunisia */
+.no-svg .flag-webicon.tunisia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tunisia.png");}
+.no-svg .flag-webicon.tunisia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tunisia-xs.png");}
+.no-svg .flag-webicon.tunisia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tunisia-s.png");}
+.no-svg .flag-webicon.tunisia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tunisia-l.png");}
+.no-svg .flag-webicon.tunisia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tunisia-xl.png");}
+.svg .flag-webicon.tunisia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tunisia.svg");}
+
+/* turkey */
+.no-svg .flag-webicon.turkey {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/turkey.png");}
+.no-svg .flag-webicon.turkey.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/turkey-xs.png");}
+.no-svg .flag-webicon.turkey.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/turkey-s.png");}
+.no-svg .flag-webicon.turkey.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/turkey-l.png");}
+.no-svg .flag-webicon.turkey.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/turkey-xl.png");}
+.svg .flag-webicon.turkey {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/turkey.svg");}
+
+/* turkmenistan */
+.no-svg .flag-webicon.turkmenistan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/turkmenistan.png");}
+.no-svg .flag-webicon.turkmenistan.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/turkmenistan-xs.png");}
+.no-svg .flag-webicon.turkmenistan.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/turkmenistan-s.png");}
+.no-svg .flag-webicon.turkmenistan.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/turkmenistan-l.png");}
+.no-svg .flag-webicon.turkmenistan.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/turkmenistan-xl.png");}
+.svg .flag-webicon.turkmenistan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/turkmenistan.svg");}
+
+/* tuvalu */
+.no-svg .flag-webicon.tuvalu {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tuvalu.png");}
+.no-svg .flag-webicon.tuvalu.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tuvalu-xs.png");}
+.no-svg .flag-webicon.tuvalu.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tuvalu-s.png");}
+.no-svg .flag-webicon.tuvalu.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tuvalu-l.png");}
+.no-svg .flag-webicon.tuvalu.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tuvalu-xl.png");}
+.svg .flag-webicon.tuvalu {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/tuvalu.svg");}
+
+/* uganda */
+.no-svg .flag-webicon.uganda {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uganda.png");}
+.no-svg .flag-webicon.uganda.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uganda-xs.png");}
+.no-svg .flag-webicon.uganda.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uganda-s.png");}
+.no-svg .flag-webicon.uganda.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uganda-l.png");}
+.no-svg .flag-webicon.uganda.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uganda-xl.png");}
+.svg .flag-webicon.uganda {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uganda.svg");}
+
+/* ukraine */
+.no-svg .flag-webicon.ukraine {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ukraine.png");}
+.no-svg .flag-webicon.ukraine.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ukraine-xs.png");}
+.no-svg .flag-webicon.ukraine.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ukraine-s.png");}
+.no-svg .flag-webicon.ukraine.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ukraine-l.png");}
+.no-svg .flag-webicon.ukraine.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ukraine-xl.png");}
+.svg .flag-webicon.ukraine {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/ukraine.svg");}
+
+/* united-arab-emirates */
+.no-svg .flag-webicon.united-arab-emirates {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-arab-emirates.png");}
+.no-svg .flag-webicon.united-arab-emirates.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-arab-emirates-xs.png");}
+.no-svg .flag-webicon.united-arab-emirates.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-arab-emirates-s.png");}
+.no-svg .flag-webicon.united-arab-emirates.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-arab-emirates-l.png");}
+.no-svg .flag-webicon.united-arab-emirates.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-arab-emirates-xl.png");}
+.svg .flag-webicon.united-arab-emirates {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-arab-emirates.svg");}
+
+/* united-kingdom */
+.no-svg .flag-webicon.united-kingdom {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-kingdom.png");}
+.no-svg .flag-webicon.united-kingdom.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-kingdom-xs.png");}
+.no-svg .flag-webicon.united-kingdom.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-kingdom-s.png");}
+.no-svg .flag-webicon.united-kingdom.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-kingdom-l.png");}
+.no-svg .flag-webicon.united-kingdom.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-kingdom-xl.png");}
+.svg .flag-webicon.united-kingdom {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-kingdom.svg");}
+
+/* united-states */
+.no-svg .flag-webicon.united-states {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-states.png");}
+.no-svg .flag-webicon.united-states.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-states-xs.png");}
+.no-svg .flag-webicon.united-states.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-states-s.png");}
+.no-svg .flag-webicon.united-states.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-states-l.png");}
+.no-svg .flag-webicon.united-states.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-states-xl.png");}
+.svg .flag-webicon.united-states {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/united-states.svg");}
+
+/* uruguay */
+.no-svg .flag-webicon.uruguay {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uruguay.png");}
+.no-svg .flag-webicon.uruguay.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uruguay-xs.png");}
+.no-svg .flag-webicon.uruguay.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uruguay-s.png");}
+.no-svg .flag-webicon.uruguay.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uruguay-l.png");}
+.no-svg .flag-webicon.uruguay.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uruguay-xl.png");}
+.svg .flag-webicon.uruguay {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uruguay.svg");}
+
+/* uzbekistan */
+.no-svg .flag-webicon.uzbekistan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uzbekistan.png");}
+.no-svg .flag-webicon.uzbekistan.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uzbekistan-xs.png");}
+.no-svg .flag-webicon.uzbekistan.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uzbekistan-s.png");}
+.no-svg .flag-webicon.uzbekistan.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uzbekistan-l.png");}
+.no-svg .flag-webicon.uzbekistan.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uzbekistan-xl.png");}
+.svg .flag-webicon.uzbekistan {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/uzbekistan.svg");}
+
+/* vanuatu */
+.no-svg .flag-webicon.vanuatu {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vanuatu.png");}
+.no-svg .flag-webicon.vanuatu.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vanuatu-xs.png");}
+.no-svg .flag-webicon.vanuatu.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vanuatu-s.png");}
+.no-svg .flag-webicon.vanuatu.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vanuatu-l.png");}
+.no-svg .flag-webicon.vanuatu.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vanuatu-xl.png");}
+.svg .flag-webicon.vanuatu {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vanuatu.svg");}
+
+/* vatican-city */
+.no-svg .flag-webicon.vatican-city {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vatican-city.png");}
+.no-svg .flag-webicon.vatican-city.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vatican-city-xs.png");}
+.no-svg .flag-webicon.vatican-city.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vatican-city-s.png");}
+.no-svg .flag-webicon.vatican-city.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vatican-city-l.png");}
+.no-svg .flag-webicon.vatican-city.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vatican-city-xl.png");}
+.svg .flag-webicon.vatican-city {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vatican-city.svg");}
+
+/* venezuela */
+.no-svg .flag-webicon.venezuela {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/venezuela.png");}
+.no-svg .flag-webicon.venezuela.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/venezuela-xs.png");}
+.no-svg .flag-webicon.venezuela.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/venezuela-s.png");}
+.no-svg .flag-webicon.venezuela.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/venezuela-l.png");}
+.no-svg .flag-webicon.venezuela.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/venezuela-xl.png");}
+.svg .flag-webicon.venezuela {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/venezuela.svg");}
+
+/* vietnam */
+.no-svg .flag-webicon.vietnam {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vietnam.png");}
+.no-svg .flag-webicon.vietnam.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vietnam-xs.png");}
+.no-svg .flag-webicon.vietnam.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vietnam-s.png");}
+.no-svg .flag-webicon.vietnam.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vietnam-l.png");}
+.no-svg .flag-webicon.vietnam.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vietnam-xl.png");}
+.svg .flag-webicon.vietnam {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/vietnam.svg");}
+
+/* yemen */
+.no-svg .flag-webicon.yemen {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/yemen.png");}
+.no-svg .flag-webicon.yemen.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/yemen-xs.png");}
+.no-svg .flag-webicon.yemen.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/yemen-s.png");}
+.no-svg .flag-webicon.yemen.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/yemen-l.png");}
+.no-svg .flag-webicon.yemen.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/yemen-xl.png");}
+.svg .flag-webicon.yemen {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/yemen.svg");}
+
+/* zambia */
+.no-svg .flag-webicon.zambia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/zambia.png");}
+.no-svg .flag-webicon.zambia.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/zambia-xs.png");}
+.no-svg .flag-webicon.zambia.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/zambia-s.png");}
+.no-svg .flag-webicon.zambia.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/zambia-l.png");}
+.no-svg .flag-webicon.zambia.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/zambia-xl.png");}
+.svg .flag-webicon.zambia {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/zambia.svg");}
+
+/* zimbabwe */
+.no-svg .flag-webicon.zimbabwe {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/zimbabwe.png");}
+.no-svg .flag-webicon.zimbabwe.xsmall {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/zimbabwe-xs.png");}
+.no-svg .flag-webicon.zimbabwe.small {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/zimbabwe-s.png");}
+.no-svg .flag-webicon.zimbabwe.large {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/zimbabwe-l.png");}
+.no-svg .flag-webicon.zimbabwe.xlarge {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/zimbabwe-xl.png");}
+.svg .flag-webicon.zimbabwe {background: url("/packages/flag-webicons/lib/Flag-Webicons/flags/zimbabwe.svg");}

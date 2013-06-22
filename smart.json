@@ -1,0 +1,12 @@
+{
+    "name": "flag-webicons",
+    "description": "Flag-Webicons repackaged for Meteor",
+    "homepage": "https://github.com/gadicohen/meteor-flag-webicons",
+    "author": "Gadi Cohen <dragon@wastelands.net>",
+    "version": "1.0.0",
+    "git": "https://github.com/gadicohen/meteor-flag-webicons.git",
+	"packages": {
+		"modernizr-meteor": "2.6.2"
+	}
+}
+
