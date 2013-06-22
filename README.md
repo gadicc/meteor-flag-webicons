@@ -7,7 +7,7 @@ This is a smart package of Flag-Webicons for Meteor.
 ### Usage
 
 ```
-    <a class="flag-webicon senegal xsmall" href="http://www.gouv.sn/">République du Sénégal</a>
+<a class="flag-webicon senegal xsmall" href="http://www.gouv.sn/">République du Sénégal</a>
 <a class="flag-webicon senegal small" href="http://www.gouv.sn/">République du Sénégal</a>
 <a class="flag-webicon senegal" href="http://www.gouv.sn/">République du Sénégal</a>
 <a class="flag-webicon senegal large" href="http://www.gouv.sn/">République du Sénégal</a>
