@@ -1,0 +1,3 @@
+[submodule "lib/Flag-Webicons"]
+	path = lib/Flag-Webicons
+	url = https://github.com/seanherron/Flag-Webicons.git
