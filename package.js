@@ -1,5 +1,8 @@
 Package.describe({
-	summary: "Flag-Webicons packaged for Meteor"
+  name:    "gadicohen:flag-webicons",
+  version: "1.0.3",
+  git:     "https://github.com/gadicc/meteor-flag-webicons.git",
+  summary: "Flag-Webicons packaged for Meteor"
 });
 
 Package.on_use(function(api) {

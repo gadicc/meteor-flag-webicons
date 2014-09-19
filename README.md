@@ -1,4 +1,4 @@
-## Flag-Webicons [![Build Status](https://travis-ci.org/gadicohen/meteor-flag-webicons.png?branch=master)](https://travis-ci.org/gadicohen/meteor-flag-webicons)
+## Flag-Webicons [![Build Status](https://travis-ci.org/gadicc/meteor-flag-webicons.png?branch=master)](https://travis-ci.org/gadicc/meteor-flag-webicons)
 
 [Flag-Webicons](https://github.com/seanherron/Flag-Webicons) let's you use beautiful SVG icons of any flag in the world, and fallsback to PNG images in unsupported browsers.
 
